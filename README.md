@@ -5,7 +5,6 @@ I'm Stef(Star), a wanna be dev, dream to make the perfect mmorpg
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning C++ and Python.
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with C++
