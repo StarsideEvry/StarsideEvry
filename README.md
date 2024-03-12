@@ -5,7 +5,7 @@ I'm Stef(Star), a wanna be dev, dream to make the perfect mmorpg
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning C++ and Python.
+- 🌱 I’m currently learning C++, HTML,CSS and JS.
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with C++
 - 📫 How to reach me: m.p.s.boyfe@gmail.com
