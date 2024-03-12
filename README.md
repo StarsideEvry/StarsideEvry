@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with C++
 - 📫 How to reach me: m.p.s.boyfe@gmail.com
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I've started programming back in 2018 with HTML and later on tried JS.
+- ⚡ Fun fact: I've started programming back in 2018 with HTML and later on started working on JS.
