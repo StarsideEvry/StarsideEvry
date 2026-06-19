@@ -1,12 +1,13 @@
-### Hello there 👋
+# Hello there 👋
 
-I'm Stef(Star), a wanna be dev, dream to make the perfect mmorpg
+I'm Stef. I'm an aspiring developer passionate about making games. I started programming in 2018 with HTML/CSS and have been expanding my skills across game development.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Languages: C#, GDScript, Python (Pygame), JavaScript, HTML/CSS
+- Game Engines & Frameworks: Godot (GDScript), Pygame, Unity (learning)
+- Tools & Automation: Git, GitHub, basic CI concepts, scripting for automation (Python/Node)
+- Other: basic OOP, version control, debugging, designing simple game mechanics
 
-- 🌱 I’m currently learning C#, pygames, gdscript and JS.
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with automation
-- 📫 How to reach me: steff.ganchev@gmail.com
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: I've started programming back in 2018 with HTML and CSS, later on started working on JS as well.
+## Education & Learning
+- Currently a Bachelor's student in Information Technologies (specialization: Game Development) at NBU.
+- Previously (high school): studied Microprocessor Technologies.
